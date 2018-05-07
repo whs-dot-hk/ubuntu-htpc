@@ -1,3 +1,4 @@
+# Ubuntu 18.04 LTS HTPC Guide
 ![alt text](https://whs-dot-hk.github.io/ubuntu-htpc/smplayer_mpv_log.png "SMPlayer mpv log")
 ## mpv log
 ```
@@ -112,7 +113,7 @@ INFO_TRACK_11: sub 7 'spa' '' no
 INFO_TRACK_12: sub 8 'fra' '' no
 INFO_TRACK_13: sub 9 'eng' '' no
 ```
-# Ubuntu 18.04 LTS HTPC Guide
+
 We will install `SMPlayer` with `NVDEC` support
 ## Update and Upgrade Ubuntu
 ```

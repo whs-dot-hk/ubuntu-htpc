@@ -1,4 +1,4 @@
-# Ubuntu 18.04 LTS HTPC Guide
+# Ubuntu 18.04 LTS HTPC Setup Guide
 ![alt text](https://whs-dot-hk.github.io/ubuntu-htpc/smplayer_mpv_log.png "SMPlayer mpv log")
 ## mpv log
 ```
